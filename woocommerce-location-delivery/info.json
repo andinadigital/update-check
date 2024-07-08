@@ -4,7 +4,7 @@
 	"author" : "<a href='https://andina.digital'>Andina Digital</a>",
 	"author_profile" : "http://profiles.wordpress.org/edgardot",
 	"version" : "2.1",
-	"download_url" : "https://andina.digital/wp-content/uploads/updater/woocommerce-location-delivery.zip",
+	"download_url" : "https://andina.digital/secure-download.php?license_key={LICENSE_KEY}&file_id={FILE_ID}",
 	"requires" : "3.0",
 	"tested" : "5.8",
 	"requires_php" : "8.0",
