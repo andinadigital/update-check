@@ -1,6 +1,6 @@
 {
-	"name": "Woocommerce Crypto Payment",
-	"slug": "woocommerce-crypto-payment",
+	"name": "Woocommerce Payment QR",
+	"slug": "woocommerce-payment-qr",
 	"author": "<a href='https://andina.digital'>Andina Software SAC - Edgardo Tupiño</a>",
 	"author_profile": "https://andina.digital/plugins",
 	"version": "1.3.0",
@@ -8,9 +8,9 @@
 	"requires": "3.0",
 	"tested": "6.0",
 	"requires_php": "8.0",
-	"last_updated": "2024-12-22 02:00:00",
+	"last_updated": "2024-12-23 02:00:00",
 	"sections": {
-		"description": "Pasarela de pago de WooCommerce para procesar pagos con Metamask y criptomonedas como ETH, BTC y USDC.",
+		"description": "Pasarela de pago de WooCommerce para procesar pagos con códigos QR.",
 		"installation": "Haz clic en el botón de activar y listo.",
 		"changelog": "<h4>1.2.1 – 21 julio 2024</h4><ul><li>Corrección de errores menores.</li><li>Compatibilidad mejorada con WooCommerce 6.0.</li></ul>"
 	},
