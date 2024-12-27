@@ -1,21 +1,21 @@
 {
-	"name": "Woocommerce Payment QR",
-	"slug": "woocommerce-payment-qr",
-	"author": "<a href='https://andina.digital'>Andina Software SAC - Edgardo Tupiño</a>",
-	"author_profile": "https://andina.digital/plugins",
-	"version": "1.3.0",
-	"download_url": "https://andina.digital/secure-download.php?license_key={LICENSE_KEY}&plugin_name=wocommerce-crypto-payment",
-	"requires": "3.0",
-	"tested": "6.0",
-	"requires_php": "8.0",
-	"last_updated": "2024-12-23 02:00:00",
-	"sections": {
-		"description": "Pasarela de pago de WooCommerce para procesar pagos con códigos QR.",
-		"installation": "Haz clic en el botón de activar y listo.",
-		"changelog": "<h4>1.2.1 – 21 julio 2024</h4><ul><li>Corrección de errores menores.</li><li>Compatibilidad mejorada con WooCommerce 6.0.</li></ul>"
-	},
-	"banners": {
-		"low": "https://andina.digital/wp-content/uploads/updater/banner-772x250.jpg",
-		"high": "https://andina.digital/wp-content/uploads/updater/banner-1544x500.jpg"
-	}
+  "name": "Woocommerce Payment QR",
+  "slug": "woocommerce-payment-qr",
+  "author": "<a href='https://andina.digital'>Andina Software SAC - Edgardo Tupiño</a>",
+  "author_profile": "https://andina.digital/plugins",
+  "version": "1.4.0",
+  "download_url": "https://andina.digital/secure-download.php?license_key={LICENSE_KEY}&plugin_name=wocommerce-crypto-payment",
+  "requires": "3.0",
+  "tested": "6.0",
+  "requires_php": "8.0",
+  "last_updated": "2024-12-26 21:18:42",
+  "sections": {
+    "description": "Pasarela de pago de WooCommerce para procesar pagos con códigos QR.",
+    "installation": "Haz clic en el botón de activar y listo.",
+    "changelog": "<h4>1.2.1 – 21 julio 2024</h4><ul><li>Corrección de errores menores.</li><li>Compatibilidad mejorada con WooCommerce 6.0.</li></ul>"
+  },
+  "banners": {
+    "low": "https://andina.digital/wp-content/uploads/updater/banner-772x250.jpg",
+    "high": "https://andina.digital/wp-content/uploads/updater/banner-1544x500.jpg"
+  }
 }
