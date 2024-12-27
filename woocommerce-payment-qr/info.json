@@ -8,7 +8,7 @@
   "requires": "3.0",
   "tested": "6.0",
   "requires_php": "8.0",
-  "last_updated": "2024-12-26 21:21:30",
+  "last_updated": "2024-12-27 18:32:42",
   "sections": {
     "description": "Pasarela de pago de WooCommerce para procesar pagos con códigos QR.",
     "installation": "Haz clic en el botón de activar y listo.",
