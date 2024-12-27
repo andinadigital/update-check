@@ -1,21 +1,21 @@
 {
-	"name" : "Libro de Reclamaciones - INDECOPI Perú",
-	"slug" : "wp-libro-reclamaciones",
-	"author" : "<a href='https://andina.digital'>Andina Digital</a>",
-	"author_profile" : "http://profiles.wordpress.org/edgardot",
-	"version" : "1.3.0",
-    "download_url" : "https://andina.digital/secure-download.php?license_key={LICENSE_KEY}&plugin_name=wp-libro-reclamaciones",
-	"requires" : "3.0",
-	"tested" : "6.0",
-	"requires_php" : "8.0",
-	"last_updated" : "2024-07-21 02:10:00",
-	"sections" : {
-		"description" : "Habilita el Libro de Reclamaciones en tu sitio web, exigido por Indecopi Perú.",
-		"installation" : "Click the activate button and that's it.",
-		"changelog" : "<h4>1.0 –  1 august 2021</h4><ul><li>Bug fixes.</li><li>Initital release.</li></ul>"
-	},
-	"banners" : {
-		"low" : "https://andina.digital/wp-content/uploads/updater/banner-772x250.jpg",
-		"high" : "https://andina.digital/wp-content/uploads/updater/banner-1544x500.jpg"
-	}
+  "name": "Libro de Reclamaciones - INDECOPI Perú",
+  "slug": "wp-libro-reclamaciones",
+  "author": "<a href='https://andina.digital'>Andina Digital</a>",
+  "author_profile": "http://profiles.wordpress.org/edgardot",
+  "version": "1.4.0",
+  "download_url": "https://andina.digital/secure-download.php?license_key={LICENSE_KEY}&plugin_name=wp-libro-reclamaciones",
+  "requires": "3.0",
+  "tested": "6.0",
+  "requires_php": "8.0",
+  "last_updated": "2024-12-27 18:33:28",
+  "sections": {
+    "description": "Habilita el Libro de Reclamaciones en tu sitio web, exigido por Indecopi Perú.",
+    "installation": "Click the activate button and that's it.",
+    "changelog": "<h4>1.0 –  1 august 2021</h4><ul><li>Bug fixes.</li><li>Initital release.</li></ul>"
+  },
+  "banners": {
+    "low": "https://andina.digital/wp-content/uploads/updater/banner-772x250.jpg",
+    "high": "https://andina.digital/wp-content/uploads/updater/banner-1544x500.jpg"
+  }
 }
