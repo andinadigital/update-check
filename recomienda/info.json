@@ -1,0 +1,22 @@
+{
+	"name": "Recomienda.pe Theme",
+	"slug": "recomienda-pe",
+	"version": "1.2.1",
+	"author": "Andina Digital",
+	"author_profile": "https://andina.digital/",
+	"download_url": "https://andina.digital/private/updater/recomienda-pe.zip",
+	"requires": "5.0",
+	"tested": "6.5",
+	"requires_php": "7.4",
+	"last_updated": "2025-03-28 12:00:00",
+	"sections": {
+	  "description": "Theme personalizado para el proyecto Recomienda.pe, basado en BuddyBoss.",
+	  "installation": "Sube y activa el theme como cualquier otro theme de WordPress.",
+	  "changelog": "<h4>1.2.0 – 28 Marzo 2025</h4><ul><li>Actualización de compatibilidad con WordPress 6.5</li><li>Mejoras menores de estilo</li></ul>"
+	},
+	"banners": {
+	  "low": "https://andina.digital/wp-content/uploads/updater/banner-772x250.jpg",
+	  "high": "https://andina.digital/wp-content/uploads/updater/banner-1544x500.jpg"
+	}
+  }
+  
