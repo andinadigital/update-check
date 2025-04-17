@@ -1,10 +1,10 @@
 {
 	"name": "Recomienda.pe",
-	"slug": "1000-oficios-child-theme",
+	"slug": "recomienda-child",
 	"version": "1.2.1",
 	"author": "Andina Digital",
 	"author_profile": "https://andina.digital/",
-	"download_url": "https://andina.digital/theme/1000-oficios-child-theme.zip",
+	"download_url": "https://andina.digital/theme/recomienda-child.zip",
 	"requires": "5.0",
 	"tested": "6.5",
 	"requires_php": "7.4",
