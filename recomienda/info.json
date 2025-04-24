@@ -1,14 +1,14 @@
 {
 	"name": "Recomienda.pe",
 	"slug": "recomienda-child",
-	"version": "1.2.1",
+	"version": "1.2.3",
 	"author": "Andina Digital",
 	"author_profile": "https://andina.digital/",
 	"download_url": "https://andina.digital/theme/recomienda-child.zip",
 	"requires": "5.0",
 	"tested": "6.5",
 	"requires_php": "7.4",
-	"last_updated": "2025-03-28 12:00:00",
+	"last_updated": "2025-04-24 12:00:00",
 	"sections": {
 	  "description": "Theme para el proyecto Recomienda.pe del MTPE, desarrollado por Andina Digital y basado en BuddyBoss.",
 	  "installation": "Sube y activa el theme como cualquier otro theme de WordPress desde Apariencia > Temas.",
