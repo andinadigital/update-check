@@ -3,7 +3,7 @@
   "slug": "wp-libro-reclamaciones",
   "author": "<a href='https://andina.digital'>Andina Digital</a>",
   "author_profile": "http://profiles.wordpress.org/edgardot",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "download_url": "https://andina.digital/secure-download.php?license_key={LICENSE_KEY}&plugin_name=wp-libro-reclamaciones",
   "requires": "3.0",
   "tested": "6.0",
