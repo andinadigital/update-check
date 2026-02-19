@@ -3,7 +3,7 @@
   "slug": "woocommerce-payment-qr",
   "author": "<a href='https://andina.digital'>Andina Software SAC - Edgardo Tupiño</a>",
   "author_profile": "https://andina.digital/plugins",
-  "version": "2.0.0",
+  "version": "2.1.2",
   "download_url": "https://andina.digital/secure-download.php?license_key={LICENSE_KEY}&plugin_name=wocommerce-paymetn-qr",
   "requires": "3.0",
   "tested": "6.0",
