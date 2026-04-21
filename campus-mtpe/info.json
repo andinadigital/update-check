@@ -1,0 +1,21 @@
+{
+	"name": "Campus MTPE Theme",
+	"slug": "campus-mtpe",
+	"version": "1.0.0",
+	"author": "Andina Digital",
+	"author_profile": "https://andina.digital/",
+	"download_url": "https://andina.digital/theme/campus-mtpe.zip",
+	"requires": "5.0",
+	"tested": "6.5",
+	"requires_php": "7.4",
+	"last_updated": "2026-04-21 10:00:00",
+	"sections": {
+		"description": "Theme personalizado para la plataforma Campus MTPE del Ministerio de Trabajo y Promoción del Empleo del Perú, desarrollado por Andina Digital.",
+		"installation": "Sube y activa el theme desde Apariencia > Temas en el panel de WordPress.",
+		"changelog": "<h4>1.0.0 – 21 Abril 2026</h4><ul><li>Versión inicial del theme Campus MTPE</li><li>Integración con Edwiser Bridge / Moodle</li><li>CPTs: cursos_cap, rutas, recursos, webinars</li><li>Chat IA con OpenAI / DeepSeek</li><li>Sistema de actualización automática del theme</li></ul>"
+	},
+	"banners": {
+		"low": "https://andina.digital/wp-content/uploads/updater/banner-772x250.jpg",
+		"high": "https://andina.digital/wp-content/uploads/updater/banner-1544x500.jpg"
+	}
+}
