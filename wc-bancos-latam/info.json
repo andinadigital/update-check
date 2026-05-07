@@ -8,7 +8,7 @@
   "requires": "6.0",
   "tested": "9.0",
   "requires_php": "8.0",
-  "last_updated": "2026-05-07 03:17:07",
+  "last_updated": "2026-05-07 03:23:53",
   "sections": {
     "description": "Métodos de pago bancarios visuales para WooCommerce. Muestra cuentas bancarias con logos, número de cuenta, CCI y botones de copia para facilitar las transferencias. Incluye subida de comprobante de pago.",
     "installation": "1. Activa el plugin desde el panel de WordPress.\n2. Ve a Bancos Latam → Licencia e ingresa tu clave de licencia.\n3. Agrega tus cuentas bancarias en Bancos Latam → Cuentas Bancarias.\n4. El método de pago aparecerá automáticamente en el checkout de WooCommerce.",
