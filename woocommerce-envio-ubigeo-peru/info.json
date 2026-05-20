@@ -1,0 +1,21 @@
+{
+  "name": "WooCommerce Envío por Ubigeo Perú",
+  "slug": "woocommerce-envio-ubigeo-peru",
+  "author": "<a href='https://andina.digital'>Andina Digital</a>",
+  "author_profile": "https://andina.digital/plugins",
+  "version": "1.0.1",
+  "download_url": "https://andina.digital/secure-download.php?license_key={LICENSE_KEY}&plugin_name=woocommerce-envio-ubigeo-peru",
+  "requires": "6.0",
+  "tested": "9.0",
+  "requires_php": "8.0",
+  "last_updated": "2026-05-20 04:37:21",
+  "sections": {
+    "description": "Método de envío WooCommerce con tarifas configurables por departamento, provincia y distrito del Perú. Incluye selector cascada AJAX en checkout clásico y por bloques, geolocalización Google Maps e importación CSV de ubigeo.",
+    "installation": "Activa el plugin e ingresa tu licencia. Configura las tarifas por departamento/provincia/distrito desde WooCommerce → Ajustes → Envío.",
+    "changelog": "<h4>1.0.1</h4><ul><li>Campos de ubigeo integrados nativamente en checkout clásico (priority 41/42/43, debajo de País/Región).</li><li>Detección automática checkout clásico vs por bloques.</li><li>Fix de visibilidad inicial de campos cuando país = Perú.</li><li>Galería de capturas actualizada.</li></ul>"
+  },
+  "banners": {
+    "low": "https://andina.digital/wp-content/uploads/updater/banner-772x250.jpg",
+    "high": "https://andina.digital/wp-content/uploads/updater/banner-1544x500.jpg"
+  }
+}
