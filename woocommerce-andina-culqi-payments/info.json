@@ -1,0 +1,21 @@
+{
+  "name": "WooCommerce Andina Culqi Payments",
+  "slug": "woocommerce-andina-culqi-payments",
+  "author": "<a href='https://andina.digital'>Andina Digital</a>",
+  "author_profile": "https://andina.digital/plugins",
+  "version": "1.2.1",
+  "download_url": "https://andina.digital/secure-download.php?license_key={LICENSE_KEY}&plugin_name=woocommerce-andina-culqi-payments",
+  "requires": "6.2",
+  "tested": "6.7",
+  "requires_php": "8.0",
+  "last_updated": "2026-06-02 03:50:33",
+  "sections": {
+    "description": "Pasarela de pagos Culqi para WooCommerce: checkout transparente, 3DS, tarjetas guardadas, cuotas, Yape, reembolsos y suscripciones recurrentes.",
+    "installation": "Sube el ZIP en Plugins > Añadir nuevo, activa el plugin e ingresa tu licencia en Culqi Payments > Licencia.",
+    "changelog": "<h4>1.2.1</h4><ul><li>Corrige un error crítico en el checkout con WooCommerce Blocks sin licencia activa.</li><li>Redirección automática a la página de licencia tras la primera activación.</li><li>Heartbeat diario de estado del sitio hacia Andina Digital.</li></ul>"
+  },
+  "banners": {
+    "low": "https://andina.digital/wp-content/uploads/updater/banner-772x250.jpg",
+    "high": "https://andina.digital/wp-content/uploads/updater/banner-1544x500.jpg"
+  }
+}
