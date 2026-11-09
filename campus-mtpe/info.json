@@ -1,12 +1,12 @@
 {
   "name": "Campus MTPE",
   "slug": "campus-mtpe",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "author": "Andina Software SAC",
   "author_profile": "https://andina.digital/",
   "url": "https://github.com/andinadigital/campus-mtpe/blob/mtpe/CHANGELOG.md",
-  "download_url": "https://andina.digital/theme/campus-mtpe-1.4.2.zip",
-  "sha256": "41452d01b8070ea26d4b99b0a07a911f80c9f31604f40d9fbe5e8695028fa1f1",
+  "download_url": "https://andina.digital/theme/campus-mtpe-1.4.3.zip",
+  "sha256": "f1388f5bc81528c5e4a3bd21054eeecd95f0c5917877c9c987ccce90ab582147",
   "requires": "6.4",
   "tested": "7.1",
   "requires_php": "8.1",
@@ -14,10 +14,10 @@
   "sections": {
     "description": "Theme personalizado para la plataforma Campus MTPE del Ministerio de Trabajo y Promoción del Empleo del Perú, desarrollado por Andina Digital.",
     "installation": "Sube y activa el theme desde Apariencia > Temas en el panel de WordPress.",
-    "changelog": "<h4>1.4.2 – 2026-11-09</h4><p><strong>Añadido</strong></p><ul><li>Portada → Aliados: cada fila admite ahora un logotipo propio, nombre y enlace, además de la entidad de rutas. Se pueden agregar aliados que no sean entidades; el logotipo subido tiene prioridad y el enlace abre en pestaña nueva.</li></ul><h4>1.4.1 – 2026-11-09</h4><p><strong>Añadido</strong></p><ul><li>Rutinas de actualización de datos: cuando una versión necesita un ajuste de contenido, se ejecuta una sola vez al cargar la versión nueva, sin pasos manuales.</li><li>Portada → Aliados: el campo «Lista aliados» explica de dónde salen el logotipo y el nombre de cada aliado (la entidad) y cómo cambiarlos.</li></ul><p><strong>Cambiado</strong></p><ul><li>El banner inferior de la portada (Becas Generación Plateada) se reemplaza automáticamente por la imagen original del portal del Ministerio (becas-01, 2560 × 1033 px); la copia anterior de 1380 px se veía pixelada.</li><li>El banner inferior de la portada se sirve con srcset y sizes, igual que el hero de la landing: cada pantalla descarga el tamaño que necesita y las pantallas de alta densidad reciben la imagen completa.</li><li>Las imágenes subidas conservan su calidad: WordPress ya no recomprime los tamaños intermedios ni reduce los originales grandes.</li></ul>"
+    "changelog": "<h4>1.4.3 – 2026-11-09</h4><p><strong>Cambiado</strong></p><ul><li>Portada → Aliados: al instalar esta versión, cada fila que apuntaba a una entidad queda precargada con su logotipo, nombre y enlace, de modo que los aliados actuales se editan directamente desde la página de Inicio. Las filas que ya tenían logotipo propio no cambian.</li><li>Los enlaces de aliados a otros sitios abren en pestaña nueva; los enlaces internos, en la misma.</li></ul><h4>1.4.2 – 2026-11-09</h4><p><strong>Añadido</strong></p><ul><li>Portada → Aliados: cada fila admite ahora un logotipo propio, nombre y enlace, además de la entidad de rutas. Se pueden agregar aliados que no sean entidades; el logotipo subido tiene prioridad y el enlace abre en pestaña nueva.</li></ul><h4>1.4.1 – 2026-11-09</h4><p><strong>Añadido</strong></p><ul><li>Rutinas de actualización de datos: cuando una versión necesita un ajuste de contenido, se ejecuta una sola vez al cargar la versión nueva, sin pasos manuales.</li><li>Portada → Aliados: el campo «Lista aliados» explica de dónde salen el logotipo y el nombre de cada aliado (la entidad) y cómo cambiarlos.</li></ul><p><strong>Cambiado</strong></p><ul><li>El banner inferior de la portada (Becas Generación Plateada) se reemplaza automáticamente por la imagen original del portal del Ministerio (becas-01, 2560 × 1033 px); la copia anterior de 1380 px se veía pixelada.</li><li>El banner inferior de la portada se sirve con srcset y sizes, igual que el hero de la landing: cada pantalla descarga el tamaño que necesita y las pantallas de alta densidad reciben la imagen completa.</li><li>Las imágenes subidas conservan su calidad: WordPress ya no recomprime los tamaños intermedios ni reduce los originales grandes.</li></ul>"
   },
   "build": {
-    "commit": "bf3eabbf3183f5fc63e6094186f9e4eb902bfc65",
+    "commit": "5259aa23456564c76296b7f2aca4d3a8e67561fc",
     "workflow": "manual (git archive)"
   },
   "banners": {
