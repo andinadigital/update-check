@@ -6,7 +6,7 @@
   "author_profile": "https://capacitacionlaboral.trabajo.gob.pe/",
   "url": "https://github.com/andinadigital/campus-mtpe/blob/mtpe/CHANGELOG.md",
   "download_url": "https://andina.digital/theme/campus-mtpe-1.4.4.zip",
-  "sha256": "0742e29f6deaa45f6846efc46636bdd7b7f2b336f696a9a04cbb7e750bd61001",
+  "sha256": "2600c2fe434c67cce2555cad44ea3d6da487ab04c0d0cfcf420df29869179fdc",
   "requires": "6.4",
   "tested": "7.1",
   "requires_php": "8.1",
@@ -17,7 +17,7 @@
     "changelog": "<h4>1.4.4 – 2026-11-12</h4><p><strong>Cambiado</strong></p><ul><li>La autoría del tema y los textos de licencia y garantía se presentan a nombre de Fundación Romero.</li><li>La clave de licencia puede definirse con la constante <code>CAMPUS_LICENSE_KEY</code> en <code>wp-config.php</code>; se mantiene la compatibilidad con la anterior.</li></ul><p><strong>Retirado</strong></p><ul><li>Se eliminó una librería de jQuery que no se utilizaba en el tema.</li></ul><h4>1.4.3 – 2026-11-09</h4><p><strong>Cambiado</strong></p><ul><li>Portada → Aliados: al instalar esta versión, cada fila que apuntaba a una entidad queda precargada con su logotipo, nombre y enlace, de modo que los aliados actuales se editan directamente desde la página de Inicio. Las filas que ya tenían logotipo propio no cambian.</li><li>Los enlaces de aliados a otros sitios abren en pestaña nueva; los enlaces internos, en la misma.</li></ul><h4>1.4.2 – 2026-11-09</h4><p><strong>Añadido</strong></p><ul><li>Portada → Aliados: cada fila admite ahora un logotipo propio, nombre y enlace, además de la entidad de rutas. Se pueden agregar aliados que no sean entidades; el logotipo subido tiene prioridad y el enlace abre en pestaña nueva.</li></ul><h4>1.4.1 – 2026-11-09</h4><p><strong>Añadido</strong></p><ul><li>Rutinas de actualización de datos: cuando una versión necesita un ajuste de contenido, se ejecuta una sola vez al cargar la versión nueva, sin pasos manuales.</li><li>Portada → Aliados: el campo «Lista aliados» explica de dónde salen el logotipo y el nombre de cada aliado (la entidad) y cómo cambiarlos.</li></ul><p><strong>Cambiado</strong></p><ul><li>El banner inferior de la portada (Becas Generación Plateada) se reemplaza automáticamente por la imagen original del portal del Ministerio (becas-01, 2560 × 1033 px); la copia anterior de 1380 px se veía pixelada.</li><li>El banner inferior de la portada se sirve con srcset y sizes, igual que el hero de la landing: cada pantalla descarga el tamaño que necesita y las pantallas de alta densidad reciben la imagen completa.</li><li>Las imágenes subidas conservan su calidad: WordPress ya no recomprime los tamaños intermedios ni reduce los originales grandes.</li></ul>"
   },
   "build": {
-    "commit": "19bedca8bb373239c70a4ded3f0e7e20406fbc80",
+    "commit": "19bbecb792b9abaae5ef1cf3615d7ac78991e970",
     "workflow": "manual (git archive)"
   },
   "banners": {
